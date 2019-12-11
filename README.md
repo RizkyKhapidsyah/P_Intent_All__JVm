@@ -4,7 +4,5 @@ Bahan Ajar Fundamental Java (Android): Mengenal Berbagai Jenis Intent (Eksplisit
 Lihat Source Code:<br>
 - <a href="https://github.com/RizkyKhapidsyah/P_Intent_All__JVm/tree/master/app/src/main/java/com/rizkykhapidsyah/p_intent_all__jvm">Program (Java)</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/P_Intent_All__JVm/tree/master/app/src/main/res/layout">Layout (XML)</a><br>
-- <a href="https://github.com/RizkyKhapidsyah/P_Intent_All__JVm/blob/master/app/src/main/res/values/strings.xml">String (XML)</a><br><br>
-Tambahkan Permission pada Manifest :<br>
- 
- "<"uses-permission android:name="android.permission.INTERNET" /">"
+- <a href="https://github.com/RizkyKhapidsyah/P_Intent_All__JVm/blob/master/app/src/main/res/values/strings.xml">String (XML)</a><br>
+- <a href="https://github.com/RizkyKhapidsyah/P_Intent_All__JVm/blob/master/app/src/main/AndroidManifest.xml">Manifest (XML)</a><br>
