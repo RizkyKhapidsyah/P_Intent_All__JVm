@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">P_Intent_All__JVm</string>
+    <string name="TV_PilihBahasa_IDXML">Pilih Bahasa :</string>
+    <string name="TV_Judul_IDXML">Klik Untuk Melihat Contoh Intent :</string>
+    <string name="B_ContohIntent1_IDXML">Buka: Activity Baru</string>
+    <string name="B_ContohIntent2_IDXML">Cocokkan Data Diantara Activity</string>
+    <string name="B_ContohIntent3_IDXML">Buka: Playstore</string>
+    <string name="B_ContohIntent4_IDXML">Buka: Maps</string>
+    <string name="B_ContohIntent5_IDXML">Buka: WhatsApp</string>
+    <string name="B_ContohIntent6_IDXML">Buka: E-Mail</string>
+    <string name="B_Keluar_IDXML">Keluar</string>
+    <string name="TV_Info_IDXML">Ini Adalah Activity Baru</string>
+    <string name="B_Kembali_IDXML">Kembali</string>
+    <string name="TV_Judul_ActivityB1_IDXML">Silahkan Masukkan Data :</string>
+    <string name="ET_EditText1_ActivityB1_IDXML">Masukkan Nama Depan...</string>
+    <string name="ET_EditText2_ActivityB1_IDXML">Masukkan Nama Belakang...</string>
+    <string name="B_Kirim_ActivityB1_IDXML">Kirim</string>
+    <string name="TV_TextView0_ActivityB2_IDXML">Berikut Datanya:</string>
+    <string name="TV_TextView1_ActivityB2_IDXML">Nama Depan :</string>
+    <string name="TV_TextView2_ActivityB2_IDXML">Nama Belakang :</string>
+    <string name="B_Kembali_ActivityB2_IDXML">Kembali</string>
+
+</resources>

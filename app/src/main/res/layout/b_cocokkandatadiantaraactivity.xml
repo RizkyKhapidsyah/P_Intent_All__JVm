@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".B_CocokkanDataDiantaraActivity">
+
+    <TextView
+        android:id="@+id/TV_Judul_ActivityB1_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="@string/TV_Judul_ActivityB1_IDXML"
+        android:textColor="#1a1a00"
+        android:textSize="25sp" />
+
+    <EditText
+        android:id="@+id/ET_EditText1_ActivityB1_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ET_EditText1_ActivityB1_IDXML" />
+
+    <EditText
+        android:id="@+id/ET_EditText2_ActivityB1_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ET_EditText2_ActivityB1_IDXML" />
+
+    <Button
+        android:id="@+id/B_Kirim_ActivityB1_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_Kirim_ActivityB1_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/B_Kembali_ActivityB1_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_Kembali_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

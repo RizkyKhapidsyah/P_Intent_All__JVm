@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/LL_Layout1_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/TV_PilihBahasa_IDXML"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/TV_PilihBahasa_IDXML"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+        <Spinner
+            android:id="@+id/S_PilihBahasa_IDXML"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/TV_Judul_IDXML"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/TV_Judul_IDXML"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/B_ContohIntent1_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_ContohIntent1_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/B_ContohIntent2_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_ContohIntent2_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/B_ContohIntent3_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_ContohIntent3_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/B_ContohIntent4_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_ContohIntent4_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/B_ContohIntent5_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_ContohIntent5_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/B_ContohIntent6_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_ContohIntent6_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/B_Keluar_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:text="@string/B_Keluar_IDXML" />
+
+</LinearLayout>
