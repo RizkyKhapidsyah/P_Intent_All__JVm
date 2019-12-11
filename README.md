@@ -7,4 +7,4 @@ Lihat Source Code:<br>
 - <a href="https://github.com/RizkyKhapidsyah/P_Intent_All__JVm/blob/master/app/src/main/res/values/strings.xml">String (XML)</a><br><br>
 Tambahkan Permission pada Manifest :<br>
  
- "<uses-permission android:name="android.permission.INTERNET" />"
+ "<"uses-permission android:name="android.permission.INTERNET" /">"
